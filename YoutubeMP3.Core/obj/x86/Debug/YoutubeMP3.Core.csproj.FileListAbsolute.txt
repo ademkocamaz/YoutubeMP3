@@ -1,0 +1,6 @@
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\bin\x86\Debug\YoutubeMP3.Core.dll
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\bin\x86\Debug\YoutubeMP3.Core.pdb
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\obj\x86\Debug\YoutubeMP3.Core.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\obj\x86\Debug\YoutubeMP3.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\obj\x86\Debug\YoutubeMP3.Core.dll
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.Core\obj\x86\Debug\YoutubeMP3.Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\Adem\source\repos\YoutubeMP3\Build\x86\Debug\YoutubeMP3.UI.exe.config
+C:\Users\Adem\source\repos\YoutubeMP3\Build\x86\Debug\YoutubeMP3.UI.exe
+C:\Users\Adem\source\repos\YoutubeMP3\Build\x86\Debug\YoutubeMP3.UI.pdb
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.Main.resources
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.Properties.Resources.resources
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.csproj.GenerateResource.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.exe
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.pdb
+C:\Users\Adem\source\repos\YoutubeMP3\YoutubeMP3.UI\obj\x86\Debug\YoutubeMP3.UI.csproj.CopyComplete
