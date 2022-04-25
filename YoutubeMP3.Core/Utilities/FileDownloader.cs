@@ -32,7 +32,7 @@ namespace YoutubeMP3.Core
                 {
                     progressBar.Value = 0;                   
                 };
-                //wc.DownloadFileAsync(new Uri(uri), fileName);
+                
                 wc.DownloadFileAsync(new Uri(uri), fileName);
                 while (wc.IsBusy)
                 {
