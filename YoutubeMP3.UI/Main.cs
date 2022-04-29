@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using YoutubeMP3.Core;
+using YoutubeMP3.Core.Utilities;
 
 namespace YoutubeMP3.UI
 {
@@ -24,6 +25,7 @@ namespace YoutubeMP3.UI
         private async void DownloadComponents()
         {
             richTextBox1.Text = "Downloading youtube-dl.exe and ffmpeg-release-essentials.7z";
+            LoggingTool.log.Info("Downloading youtube-dl.exe and ffmpeg-release-essentials.7z");
             await Task.Run(() =>
             {
                 if (File.Exists("youtube-dl.exe"))
@@ -52,6 +54,7 @@ namespace YoutubeMP3.UI
             await Task.Run(Extract);
 
             richTextBox1.Text = "Güncelleme başarıyla tamamlandı.";
+            LoggingTool.log.Info("Güncelleme başarıyla tamamlandı.");
             progressBar1.Value = 100;
         }
 
@@ -64,6 +67,7 @@ namespace YoutubeMP3.UI
                 app.Run();
                 app.WaitForExit();
                 richTextBox1.Text = "İndirme başarıyla tamamlandı.";
+                LoggingTool.log.Info("İndirme başarıyla tamamlandı.");
                 listBox_links.Items.Clear();
             });
             
@@ -72,6 +76,7 @@ namespace YoutubeMP3.UI
         private void App_ConsoleOutput(object sender, ConsoleOutputEventArgs e)
         {
             richTextBox1.Text = e.Line;
+            LoggingTool.log.Info(e.Line);
         }
 
         private void Extract()
@@ -128,10 +133,16 @@ namespace YoutubeMP3.UI
 
             if (!File.Exists("youtube-dl.exe") | !File.Exists("ffmpeg.exe") | !File.Exists("ffprobe.exe"))
             {
-                DownloadComponents();
+                MessageBox.Show("Önce youtube-dl ve ffmpeg güncellemelisiniz.","Uyarı",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                return;
             }
 
             DownloadMP3();
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            LoggingTool.log.Info("Program başladı.");
         }
     }
 }
