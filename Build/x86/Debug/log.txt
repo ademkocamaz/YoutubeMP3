@@ -123,3 +123,125 @@
 2022-04-30 02:22:43,869 [20] INFO  - [debug] ffmpeg command line: ffmpeg -y -loglevel "repeat+info" -i "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a" -vn -acodec libmp3lame "-q:a" 5 "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.mp3"
 2022-04-30 02:22:50,206 [20] INFO  - Deleting original file Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a (pass -k to keep)
 2022-04-30 02:22:50,271 [10] INFO  - Ýndirme baþarýyla tamamlandý.
+2022-04-30 03:59:32,904 [1] INFO  - Program baþladý.
+2022-04-30 03:59:42,464 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-04-30 04:00:22,978 [16] INFO  - 
+2022-04-30 04:00:22,979 [16] INFO  - 7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+2022-04-30 04:00:22,980 [16] INFO  - 
+2022-04-30 04:00:22,980 [16] INFO  - Scanning the drive for archives:
+2022-04-30 04:00:22,981 [16] INFO  - 1 file, 24449553 bytes (24 MiB)
+2022-04-30 04:00:22,981 [16] INFO  - 
+2022-04-30 04:00:22,982 [16] INFO  - Extracting archive: ffmpeg-release-essentials.7z
+2022-04-30 04:00:25,760 [16] INFO  - --
+2022-04-30 04:00:25,760 [16] INFO  - Path = ffmpeg-release-essentials.7z
+2022-04-30 04:00:25,760 [16] INFO  - Type = 7z
+2022-04-30 04:00:25,761 [16] INFO  - Physical Size = 24449553
+2022-04-30 04:00:25,761 [16] INFO  - Headers Size = 1013
+2022-04-30 04:00:25,762 [16] INFO  - Method = LZMA2:192m LZMA:20 BCJ2
+2022-04-30 04:00:25,762 [16] INFO  - Solid = +
+2022-04-30 04:00:25,762 [16] INFO  - Blocks = 2
+2022-04-30 04:00:25,763 [16] INFO  - 
+2022-04-30 04:00:26,363 [16] INFO  - Everything is Ok
+2022-04-30 04:00:26,364 [16] INFO  - 
+2022-04-30 04:00:26,367 [16] INFO  - Files: 3
+2022-04-30 04:00:26,369 [16] INFO  - Size:       235262464
+2022-04-30 04:00:26,369 [16] INFO  - Compressed: 24449553
+2022-04-30 04:00:29,475 [1] INFO  - Güncelleme baþarýyla tamamlandý.
+2022-04-30 04:01:22,167 [21] INFO  - [debug] System config: []
+2022-04-30 04:01:22,168 [21] INFO  - [debug] User config: []
+2022-04-30 04:01:22,168 [21] INFO  - [debug] Custom config: []
+2022-04-30 04:01:22,169 [21] INFO  - [debug] Command-line args: ['--verbose', '--extract-audio', '--audio-format', 'mp3', '--batch-file', 'url.txt']
+2022-04-30 04:01:22,170 [21] INFO  - [debug] Batch file urls: ['https://www.youtube.com/watch?v=gsPZhBbFPwI']
+2022-04-30 04:01:23,394 [21] INFO  - [debug] Encodings: locale cp1254, fs mbcs, out cp1254, pref cp1254
+2022-04-30 04:01:23,395 [21] INFO  - [debug] youtube-dl version 2021.12.17
+2022-04-30 04:01:23,396 [21] INFO  - [debug] Python version 3.4.4 (CPython) - Windows-7-6.1.7601-SP1
+2022-04-30 04:01:34,597 [21] INFO  - [debug] exe versions: ffmpeg 5.0.1-essentials_build-www.gyan.dev, ffprobe 5.0.1-essentials_build-www.gyan.dev
+2022-04-30 04:01:34,598 [21] INFO  - [debug] Proxy map: {}
+2022-04-30 04:01:35,828 [21] INFO  - [youtube] gsPZhBbFPwI: Downloading webpage
+2022-04-30 04:01:37,234 [21] INFO  - [debug] Invoking downloader on 'https://rr2---sn-u0g3oxu-5nge.googlevideo.com/videoplayback?expire=1651302105&ei=eYpsYuySMtLM1gLU9pL4Bw&ip=159.146.72.70&id=o-AJwXw2k9_gaYxeQKwmfMGgfxsYzhvPjwuXsj-iFrPRnz&itag=140&source=youtube&requiressl=yes&mh=O9&mm=31%2C29&mn=sn-u0g3oxu-5nge%2Csn-hgn7rn7r&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=942500&spc=4ocVC-F9OO79sFv9FGVL1GuE461b&vprv=1&mime=audio%2Fmp4&ns=yF6Grg9BC8oQbX5ElvWMXFkG&gir=yes&clen=4858409&dur=300.141&lmt=1586498729977664&mt=1651280220&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5531432&n=7xXbh1CbWpdrlnXpKG&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGz7Av_WnhxCsM0O085me6wHBkEXaGe2hKVd-lhl1I3ECIBYw_2tZsUNCPDAJEa1faG1i1gfLcRBLJEITJene8FED&sig=AOq0QJ8wRAIgJAuRgKd6VwbaxJMsuakx2VOOJcV0BpiSyVHfNzboZt4CIDCbaPiFgX-TiCI_9jwYl0ZhIIVBPFh8VBomN7tfiq9H'
+2022-04-30 04:01:37,539 [21] INFO  - [download] Destination: Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a
+2022-04-30 04:01:37,540 [21] INFO  - 
+2022-04-30 04:01:37,540 [21] INFO  - [download]   0.0% of 4.63MiB at  6.67KiB/s ETA 11:51
+2022-04-30 04:01:37,541 [21] INFO  - [download]   0.1% of 4.63MiB at 19.87KiB/s ETA 03:58
+2022-04-30 04:01:37,542 [21] INFO  - [download]   0.1% of 4.63MiB at 46.35KiB/s ETA 01:42
+2022-04-30 04:01:37,794 [21] INFO  - [download]   0.3% of 4.63MiB at 99.33KiB/s ETA 00:47
+2022-04-30 04:01:38,261 [21] INFO  - [download]   0.7% of 4.63MiB at 76.54KiB/s ETA 01:01
+2022-04-30 04:01:39,219 [21] INFO  - [download]   1.3% of 4.63MiB at 72.16KiB/s ETA 01:04
+2022-04-30 04:01:40,435 [21] INFO  - [download]   2.7% of 4.63MiB at 69.39KiB/s ETA 01:06
+2022-04-30 04:01:41,159 [21] INFO  - [download]   4.1% of 4.63MiB at 63.64KiB/s ETA 01:11
+2022-04-30 04:01:42,347 [21] INFO  - [download]   5.2% of 4.63MiB at 66.04KiB/s ETA 01:08
+2022-04-30 04:01:43,328 [21] INFO  - [download]   6.9% of 4.63MiB at 65.54KiB/s ETA 01:07
+2022-04-30 04:01:44,291 [21] INFO  - [download]   8.2% of 4.63MiB at 65.50KiB/s ETA 01:06
+2022-04-30 04:01:45,246 [21] INFO  - [download]   9.6% of 4.63MiB at 65.82KiB/s ETA 01:05
+2022-04-30 04:01:46,439 [21] INFO  - [download]  11.0% of 4.63MiB at 66.43KiB/s ETA 01:03
+2022-04-30 04:01:47,163 [21] INFO  - [download]  12.5% of 4.63MiB at 65.52KiB/s ETA 01:03
+2022-04-30 04:01:48,376 [21] INFO  - [download]  13.8% of 4.63MiB at 66.75KiB/s ETA 01:01
+2022-04-30 04:01:49,569 [21] INFO  - [download]  15.5% of 4.63MiB at 66.86KiB/s ETA 00:59
+2022-04-30 04:01:50,292 [21] INFO  - [download]  16.9% of 4.63MiB at 65.88KiB/s ETA 00:59
+2022-04-30 04:01:51,505 [21] INFO  - [download]  18.1% of 4.63MiB at 66.59KiB/s ETA 00:58
+2022-04-30 04:01:52,463 [21] INFO  - [download]  19.8% of 4.63MiB at 66.43KiB/s ETA 00:57
+2022-04-30 04:01:53,422 [21] INFO  - [download]  21.1% of 4.63MiB at 66.50KiB/s ETA 00:56
+2022-04-30 04:01:54,650 [21] INFO  - [download]  22.6% of 4.63MiB at 66.74KiB/s ETA 00:55
+2022-04-30 04:01:55,374 [21] INFO  - [download]  24.0% of 4.63MiB at 66.08KiB/s ETA 00:54
+2022-04-30 04:01:56,568 [21] INFO  - [download]  25.2% of 4.63MiB at 66.61KiB/s ETA 00:53
+2022-04-30 04:01:57,524 [21] INFO  - [download]  26.9% of 4.63MiB at 66.60KiB/s ETA 00:52
+2022-04-30 04:01:58,738 [21] INFO  - [download]  28.3% of 4.63MiB at 66.73KiB/s ETA 00:50
+2022-04-30 04:01:59,463 [21] INFO  - [download]  29.8% of 4.63MiB at 66.19KiB/s ETA 00:50
+2022-04-30 04:02:00,653 [21] INFO  - [download]  31.0% of 4.63MiB at 66.60KiB/s ETA 00:49
+2022-04-30 04:02:01,664 [21] INFO  - [download]  32.6% of 4.63MiB at 66.59KiB/s ETA 00:47
+2022-04-30 04:02:02,823 [21] INFO  - [download]  34.0% of 4.63MiB at 66.54KiB/s ETA 00:47
+2022-04-30 04:02:03,549 [21] INFO  - [download]  35.4% of 4.63MiB at 66.08KiB/s ETA 00:46
+2022-04-30 04:02:04,762 [21] INFO  - [download]  36.6% of 4.63MiB at 66.41KiB/s ETA 00:45
+2022-04-30 04:02:05,723 [21] INFO  - [download]  38.3% of 4.63MiB at 66.31KiB/s ETA 00:44
+2022-04-30 04:02:06,680 [21] INFO  - [download]  39.6% of 4.63MiB at 66.33KiB/s ETA 00:43
+2022-04-30 04:02:07,890 [21] INFO  - [download]  41.0% of 4.63MiB at 66.45KiB/s ETA 00:42
+2022-04-30 04:02:08,594 [21] INFO  - [download]  42.5% of 4.63MiB at 66.10KiB/s ETA 00:41
+2022-04-30 04:02:09,808 [21] INFO  - [download]  43.7% of 4.63MiB at 66.46KiB/s ETA 00:40
+2022-04-30 04:02:10,765 [21] INFO  - [download]  45.4% of 4.63MiB at 66.51KiB/s ETA 00:38
+2022-04-30 04:02:11,979 [21] INFO  - [download]  46.9% of 4.63MiB at 66.62KiB/s ETA 00:37
+2022-04-30 04:02:12,935 [21] INFO  - [download]  48.4% of 4.63MiB at 66.33KiB/s ETA 00:36
+2022-04-30 04:02:13,660 [21] INFO  - [download]  49.6% of 4.63MiB at 66.18KiB/s ETA 00:36
+2022-04-30 04:02:15,105 [21] INFO  - [download]  50.9% of 4.63MiB at 66.54KiB/s ETA 00:35
+2022-04-30 04:02:15,831 [21] INFO  - [download]  52.6% of 4.63MiB at 66.21KiB/s ETA 00:33
+2022-04-30 04:02:17,024 [21] INFO  - [download]  53.9% of 4.63MiB at 66.47KiB/s ETA 00:32
+2022-04-30 04:02:17,981 [21] INFO  - [download]  55.5% of 4.63MiB at 66.49KiB/s ETA 00:31
+2022-04-30 04:02:19,195 [21] INFO  - [download]  57.0% of 4.63MiB at 66.57KiB/s ETA 00:30
+2022-04-30 04:02:19,919 [21] INFO  - [download]  58.4% of 4.63MiB at 66.31KiB/s ETA 00:29
+2022-04-30 04:02:21,136 [21] INFO  - [download]  59.6% of 4.63MiB at 66.54KiB/s ETA 00:28
+2022-04-30 04:02:22,092 [21] INFO  - [download]  61.3% of 4.63MiB at 66.51KiB/s ETA 00:27
+2022-04-30 04:02:23,323 [21] INFO  - [download]  62.7% of 4.63MiB at 66.55KiB/s ETA 00:26
+2022-04-30 04:02:24,045 [21] INFO  - [download]  64.1% of 4.63MiB at 66.26KiB/s ETA 00:25
+2022-04-30 04:02:25,235 [21] INFO  - [download]  65.3% of 4.63MiB at 66.43KiB/s ETA 00:24
+2022-04-30 04:02:26,213 [21] INFO  - [download]  67.0% of 4.63MiB at 66.39KiB/s ETA 00:23
+2022-04-30 04:02:27,171 [21] INFO  - [download]  68.3% of 4.63MiB at 66.39KiB/s ETA 00:22
+2022-04-30 04:02:28,365 [21] INFO  - [download]  69.7% of 4.63MiB at 66.44KiB/s ETA 00:21
+2022-04-30 04:02:29,090 [21] INFO  - [download]  71.2% of 4.63MiB at 66.24KiB/s ETA 00:20
+2022-04-30 04:02:30,303 [21] INFO  - [download]  72.4% of 4.63MiB at 66.43KiB/s ETA 00:19
+2022-04-30 04:02:31,262 [21] INFO  - [download]  74.1% of 4.63MiB at 66.41KiB/s ETA 00:18
+2022-04-30 04:02:32,453 [21] INFO  - [download]  75.5% of 4.63MiB at 66.45KiB/s ETA 00:17
+2022-04-30 04:02:33,177 [21] INFO  - [download]  76.9% of 4.63MiB at 66.26KiB/s ETA 00:16
+2022-04-30 04:02:34,393 [21] INFO  - [download]  78.1% of 4.63MiB at 66.43KiB/s ETA 00:15
+2022-04-30 04:02:35,351 [21] INFO  - [download]  79.8% of 4.63MiB at 66.41KiB/s ETA 00:14
+2022-04-30 04:02:36,309 [21] INFO  - [download]  81.2% of 4.63MiB at 66.44KiB/s ETA 00:13
+2022-04-30 04:02:37,522 [21] INFO  - [download]  82.6% of 4.63MiB at 66.52KiB/s ETA 00:12
+2022-04-30 04:02:38,480 [21] INFO  - [download]  84.1% of 4.63MiB at 66.37KiB/s ETA 00:11
+2022-04-30 04:02:39,206 [21] INFO  - [download]  85.4% of 4.63MiB at 66.29KiB/s ETA 00:10
+2022-04-30 04:02:40,652 [21] INFO  - [download]  86.6% of 4.63MiB at 66.50KiB/s ETA 00:09
+2022-04-30 04:02:41,377 [21] INFO  - [download]  88.4% of 4.63MiB at 66.32KiB/s ETA 00:08
+2022-04-30 04:02:42,589 [21] INFO  - [download]  89.7% of 4.63MiB at 66.48KiB/s ETA 00:07
+2022-04-30 04:02:43,801 [21] INFO  - [download]  91.4% of 4.63MiB at 66.48KiB/s ETA 00:06
+2022-04-30 04:02:44,523 [21] INFO  - [download]  92.8% of 4.63MiB at 66.27KiB/s ETA 00:05
+2022-04-30 04:02:45,717 [21] INFO  - [download]  93.9% of 4.63MiB at 66.38KiB/s ETA 00:04
+2022-04-30 04:02:46,676 [21] INFO  - [download]  95.5% of 4.63MiB at 66.33KiB/s ETA 00:03
+2022-04-30 04:02:47,653 [21] INFO  - [download]  96.9% of 4.63MiB at 66.33KiB/s ETA 00:02
+2022-04-30 04:02:48,611 [21] INFO  - [download]  98.3% of 4.63MiB at 66.36KiB/s ETA 00:01
+2022-04-30 04:02:48,738 [21] INFO  - [download]  99.7% of 4.63MiB at 66.42KiB/s ETA 00:00
+2022-04-30 04:02:48,759 [21] INFO  - [download] 100.0% of 4.63MiB at 66.50KiB/s ETA 00:00
+2022-04-30 04:02:48,759 [21] INFO  - [download] 100% of 4.63MiB in 01:11                 
+2022-04-30 04:02:48,963 [21] INFO  - [ffmpeg] Correcting container in "Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a"
+2022-04-30 04:02:48,964 [21] INFO  - [debug] ffmpeg command line: ffmpeg -y -loglevel "repeat+info" -i "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a" -c copy -f mp4 "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.temp.m4a"
+2022-04-30 04:03:17,697 [21] INFO  - [debug] ffmpeg command line: ffprobe -show_streams "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a"
+2022-04-30 04:03:38,733 [21] INFO  - [ffmpeg] Destination: Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.mp3
+2022-04-30 04:03:38,734 [21] INFO  - [debug] ffmpeg command line: ffmpeg -y -loglevel "repeat+info" -i "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a" -vn -acodec libmp3lame "-q:a" 5 "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.mp3"
+2022-04-30 04:04:03,851 [21] INFO  - Deleting original file Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a (pass -k to keep)
+2022-04-30 04:04:04,153 [19] INFO  - Ýndirme baþarýyla tamamlandý.
