@@ -245,3 +245,117 @@
 2022-04-30 04:03:38,734 [21] INFO  - [debug] ffmpeg command line: ffmpeg -y -loglevel "repeat+info" -i "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a" -vn -acodec libmp3lame "-q:a" 5 "file:Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.mp3"
 2022-04-30 04:04:03,851 [21] INFO  - Deleting original file Uður Arslan - Karagümrük Yanýyor (Official Video)-gsPZhBbFPwI.m4a (pass -k to keep)
 2022-04-30 04:04:04,153 [19] INFO  - Ýndirme baþarýyla tamamlandý.
+2022-05-12 12:06:19,031 [1] INFO  - Program baþladý.
+2022-05-12 12:06:20,781 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:06:48,440 [14] INFO  - 
+2022-05-12 12:06:48,441 [14] INFO  - 7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+2022-05-12 12:06:48,441 [14] INFO  - 
+2022-05-12 12:06:48,442 [14] INFO  - Scanning the drive for archives:
+2022-05-12 12:06:48,442 [14] INFO  - 1 file, 24449553 bytes (24 MiB)
+2022-05-12 12:06:48,443 [14] INFO  - 
+2022-05-12 12:06:48,443 [14] INFO  - Extracting archive: ffmpeg-release-essentials.7z
+2022-05-12 12:06:51,006 [14] INFO  - --
+2022-05-12 12:06:51,007 [14] INFO  - Path = ffmpeg-release-essentials.7z
+2022-05-12 12:06:51,007 [14] INFO  - Type = 7z
+2022-05-12 12:06:51,008 [14] INFO  - Physical Size = 24449553
+2022-05-12 12:06:51,009 [14] INFO  - Headers Size = 1013
+2022-05-12 12:06:51,009 [14] INFO  - Method = LZMA2:192m LZMA:20 BCJ2
+2022-05-12 12:06:51,010 [14] INFO  - Solid = +
+2022-05-12 12:06:51,010 [14] INFO  - Blocks = 2
+2022-05-12 12:06:51,011 [14] INFO  - 
+2022-05-12 12:06:51,011 [14] INFO  - Everything is Ok
+2022-05-12 12:06:51,012 [14] INFO  - 
+2022-05-12 12:06:51,012 [14] INFO  - Files: 3
+2022-05-12 12:06:51,013 [14] INFO  - Size:       235262464
+2022-05-12 12:06:51,014 [14] INFO  - Compressed: 24449553
+2022-05-12 12:06:51,020 [1] INFO  - Güncelleme baþarýyla tamamlandý.
+2022-05-12 12:15:49,146 [1] INFO  - Program baþladý.
+2022-05-12 12:15:50,625 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:16:15,656 [14] INFO  - 
+2022-05-12 12:16:15,658 [14] INFO  - 7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+2022-05-12 12:16:15,658 [14] INFO  - 
+2022-05-12 12:16:15,659 [14] INFO  - Scanning the drive for archives:
+2022-05-12 12:16:15,659 [14] INFO  - 1 file, 24449553 bytes (24 MiB)
+2022-05-12 12:16:15,660 [14] INFO  - 
+2022-05-12 12:16:15,660 [14] INFO  - Extracting archive: ffmpeg-release-essentials.7z
+2022-05-12 12:16:18,017 [14] INFO  - --
+2022-05-12 12:16:18,018 [14] INFO  - Path = ffmpeg-release-essentials.7z
+2022-05-12 12:16:18,019 [14] INFO  - Type = 7z
+2022-05-12 12:16:18,021 [14] INFO  - Physical Size = 24449553
+2022-05-12 12:16:18,021 [14] INFO  - Headers Size = 1013
+2022-05-12 12:16:18,022 [14] INFO  - Method = LZMA2:192m LZMA:20 BCJ2
+2022-05-12 12:16:18,022 [14] INFO  - Solid = +
+2022-05-12 12:16:18,023 [14] INFO  - Blocks = 2
+2022-05-12 12:16:18,023 [14] INFO  - 
+2022-05-12 12:16:18,024 [14] INFO  - Everything is Ok
+2022-05-12 12:16:18,024 [14] INFO  - 
+2022-05-12 12:16:18,025 [14] INFO  - Files: 3
+2022-05-12 12:16:18,025 [14] INFO  - Size:       235262464
+2022-05-12 12:16:18,025 [14] INFO  - Compressed: 24449553
+2022-05-12 12:16:18,438 [1] INFO  - Güncelleme baþarýyla tamamlandý.
+2022-05-12 12:16:34,788 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:16:58,304 [17] INFO  - 
+2022-05-12 12:16:58,305 [17] INFO  - 7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+2022-05-12 12:16:58,306 [17] INFO  - 
+2022-05-12 12:16:58,306 [17] INFO  - Scanning the drive for archives:
+2022-05-12 12:16:58,307 [17] INFO  - 1 file, 24449553 bytes (24 MiB)
+2022-05-12 12:16:58,307 [17] INFO  - 
+2022-05-12 12:16:58,308 [17] INFO  - Extracting archive: ffmpeg-release-essentials.7z
+2022-05-12 12:17:00,693 [17] INFO  - --
+2022-05-12 12:17:00,695 [17] INFO  - Path = ffmpeg-release-essentials.7z
+2022-05-12 12:17:00,696 [17] INFO  - Type = 7z
+2022-05-12 12:17:00,696 [17] INFO  - Physical Size = 24449553
+2022-05-12 12:17:00,697 [17] INFO  - Headers Size = 1013
+2022-05-12 12:17:00,697 [17] INFO  - Method = LZMA2:192m LZMA:20 BCJ2
+2022-05-12 12:17:00,699 [17] INFO  - Solid = +
+2022-05-12 12:17:00,699 [17] INFO  - Blocks = 2
+2022-05-12 12:17:00,700 [17] INFO  - 
+2022-05-12 12:17:00,700 [17] INFO  - Everything is Ok
+2022-05-12 12:17:00,700 [17] INFO  - 
+2022-05-12 12:17:00,701 [17] INFO  - Files: 3
+2022-05-12 12:17:00,701 [17] INFO  - Size:       235262464
+2022-05-12 12:17:00,702 [17] INFO  - Compressed: 24449553
+2022-05-12 12:17:00,707 [1] INFO  - Güncelleme baþarýyla tamamlandý.
+2022-05-12 12:19:24,175 [1] INFO  - Program baþladý.
+2022-05-12 12:19:25,855 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:19:40,072 [1] INFO  - Program baþladý.
+2022-05-12 12:19:41,849 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:20:11,007 [1] INFO  - Program baþladý.
+2022-05-12 12:20:12,206 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:20:20,293 [1] INFO  - Program baþladý.
+2022-05-12 12:20:21,389 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:21:19,182 [1] INFO  - Program baþladý.
+2022-05-12 12:21:20,063 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:25:43,338 [1] INFO  - Program baþladý.
+2022-05-12 12:25:44,381 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:09,375 [1] INFO  - Program baþladý.
+2022-05-12 12:27:10,577 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:20,055 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:21,367 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:30,702 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:35,887 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:27:40,013 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:28:18,886 [1] INFO  - Program baþladý.
+2022-05-12 12:28:20,329 [1] INFO  - Downloading youtube-dl.exe and ffmpeg-release-essentials.7z
+2022-05-12 12:28:47,961 [13] INFO  - 
+2022-05-12 12:28:47,962 [13] INFO  - 7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+2022-05-12 12:28:47,963 [13] INFO  - 
+2022-05-12 12:28:47,963 [13] INFO  - Scanning the drive for archives:
+2022-05-12 12:28:47,964 [13] INFO  - 1 file, 24449553 bytes (24 MiB)
+2022-05-12 12:28:47,964 [13] INFO  - 
+2022-05-12 12:28:47,965 [13] INFO  - Extracting archive: ffmpeg-release-essentials.7z
+2022-05-12 12:28:50,385 [13] INFO  - --
+2022-05-12 12:28:50,385 [13] INFO  - Path = ffmpeg-release-essentials.7z
+2022-05-12 12:28:50,386 [13] INFO  - Type = 7z
+2022-05-12 12:28:50,386 [13] INFO  - Physical Size = 24449553
+2022-05-12 12:28:50,386 [13] INFO  - Headers Size = 1013
+2022-05-12 12:28:50,387 [13] INFO  - Method = LZMA2:192m LZMA:20 BCJ2
+2022-05-12 12:28:50,388 [13] INFO  - Solid = +
+2022-05-12 12:28:50,389 [13] INFO  - Blocks = 2
+2022-05-12 12:28:50,390 [13] INFO  - 
+2022-05-12 12:28:50,390 [13] INFO  - Everything is Ok
+2022-05-12 12:28:50,391 [13] INFO  - 
+2022-05-12 12:28:50,391 [13] INFO  - Files: 3
+2022-05-12 12:28:50,391 [13] INFO  - Size:       235262464
+2022-05-12 12:28:50,392 [13] INFO  - Compressed: 24449553
+2022-05-12 12:28:50,398 [1] INFO  - Güncelleme baþarýyla tamamlandý.

@@ -20,25 +20,25 @@ namespace YoutubeMP3.Core
         public void Download(string uri, string fileName)
         {
             ServicePointManager.Expect100Continue = true;
-            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Ssl3;
             using (WebClient wc = new WebClient())
             {
-                
+
                 wc.DownloadProgressChanged += (o, e) =>
                 {
                     progressBar.Value = e.ProgressPercentage;
                 };
                 wc.DownloadFileCompleted += (o, e) =>
                 {
-                    progressBar.Value = 0;                   
+                    progressBar.Value = 0;
                 };
-                
+
                 wc.DownloadFileAsync(new Uri(uri), fileName);
                 while (wc.IsBusy)
                 {
                     Application.DoEvents();
                 }
-                
+
             }
         }
     }

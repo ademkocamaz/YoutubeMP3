@@ -47,6 +47,7 @@ namespace YoutubeMP3.UI
                     File.Delete("ffmpeg-release-essentials.7z");
                 }
                 FileDownloader fd = new FileDownloader(progressBar);
+
                 fd.Download("https://youtube-dl.org/downloads/latest/youtube-dl.exe", "youtube-dl.exe");
                 fd.Download("https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z", "ffmpeg-release-essentials.7z");
                 //Extract(reply => BeginInvoke((MethodInvoker)delegate { listBox_links.Items.Add(reply); }));
